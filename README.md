@@ -141,13 +141,9 @@ Veja:
 *   B
 *   C
 
-Veja:
-
 +   1
 +   2
 +   3
-
-Veja:
 
 -   Alpha
 -   Omega
