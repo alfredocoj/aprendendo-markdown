@@ -60,3 +60,11 @@ Outra forma de criar cabeçalhos é com #. Veja:
     # Eu posso fechar o cabeçalho, mas não sou obrigado #
     ## Não importa quantos #'s eu uso para fechar #
     ### O que determina o tipo de título é a são as cerquilhas de abertura #
+
+
+# Este é um H1
+## Este é um H2
+#### Este é um H4
+# Eu posso fechar o cabeçalho, mas não sou obrigado #
+## Não importa quantos #'s eu uso para fechar #
+### O que determina o tipo de título é a são as cerquilhas de abertura #
