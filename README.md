@@ -14,11 +14,18 @@ do Markdown, traduzida pelo Google Translate. A versão original em inglês pode
   [md-en]: http://daringfireball.net/projects/markdown/
 
 
-About me
---------
-I'm Joel Wallis and [that is my Github][gh-jw]. I'm a brazilian
-Drupal DevOps who loves open source softwares and communities. You can read more
-about me in my [about.me page][abme-jw].
+Sobre
+-----
+Me chamo Joel Wallis, sou um desenvolvedor web, especializado em [Drupal][dpl],
+que ama comunidades e softwares livres. Sou um defensor do livre acesso ao
+conhecimento, um praticante de inteligência coletiva, um eterno aprendiz.
+Você pode saber mais sobre meu trabalho visitando
+[meu perfil no LinkedIn][lnkd], você pode [me seguir no Twitter][twt],
+você pode forkar algum projeto do [meu Github][gth], você pode ler
+[minha página no About.me][btm], ou você pode ir aonde você quiser. ;)
 
-  [gh-jw]: https://github.com/joelwallis
-  [abme-jw]: http://about.me/joelwallis
+  [dpl]: http://drupal.org
+  [lkd]: http://br.linkedin.com/in/joelwallis/
+  [twt]: https://twitter.com/joelwallis1
+  [gth]: https://github.com/joelwallis
+  [btm]: http://about.me/joelwallis
