@@ -122,7 +122,8 @@ Veja o resultado:
 ### Listas
 
 Markdown suporta listas ordenadas (números) e desordenadas (marcadores). Use
-asteriscos (*), símbolo de adição (+) e hífens (-) para listas desordenadas:
+asteriscos (*), símbolo de adição (+) e hífens (-) para listas desordenadas,
+e listas ordenadas usam números seguidos de um ponto.
 
     *   A
     *   B
@@ -134,6 +135,14 @@ asteriscos (*), símbolo de adição (+) e hífens (-) para listas desordenadas:
     
     -   Alpha
     -   Omega
+    
+    1.   Um
+    2.   Dois
+    3.   Três
+    
+    1.   One
+    5.   Five
+    9.   Nine
 
 Veja, com asteriscos:
 
@@ -147,7 +156,19 @@ Veja também com sinais de adição:
 +   2
 +   3
 
-Agora veja com hífens:
+Veja com hífens:
 
 -   Alpha
 -   Omega
+
+Agora com listas ordenadas:
+
+1.   Um
+2.   Dois
+3.   Três
+
+Não é preciso ordem dos números da lista ordenada:
+
+1.   One
+5.   Five
+9.   Nine
