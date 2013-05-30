@@ -35,6 +35,7 @@ Usando o Markdown
 @todo: escrever uma introdução bem legal aqui.
 
 ### Cabeçalhos
+
 Para criar cabeçalhos é fácil. Veja só:
 
     Isso é um cabeçalho H1
@@ -60,3 +61,17 @@ Outra forma de criar cabeçalhos é com #. Veja:
     # Eu posso fechar o cabeçalho, mas não sou obrigado #
     ## Não importa quantos #'s eu uso para fechar #
     ### O que determina o tipo de título é a são as cerquilhas de abertura #
+
+### Blocos de citação (blockquotes)
+
+Use > para definir citações:
+
+    > "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
+    > Pra lá , depois divoltis porris, paradis."
+    > - Mussum Ipsum
+
+Veja o resultado:
+
+ > "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
+ > Pra lá , depois divoltis porris, paradis."
+ > - Mussum Ipsum
