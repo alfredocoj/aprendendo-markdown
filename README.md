@@ -67,11 +67,17 @@ Outra forma de criar cabeçalhos é com #. Veja:
 Use > para definir citações:
 
     > "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
-    > Pra lá , depois divoltis porris, paradis."
+    > Pra lá , depois divoltis porris, paradis."  
     > - Mussum Ipsum
 
 Veja o resultado:
 
- > "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
- > Pra lá , depois divoltis porris, paradis."  
- > \- Mussum Ipsum
+> "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
+> Pra lá , depois divoltis porris, paradis."  
+> \- Mussum Ipsum
+
+Você pode também dar uma de preguiçoso e botar o > apenas na primeira linha:
+
+    > "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
+    Pra lá , depois divoltis porris, paradis."  
+    - Mussum Ipsum
