@@ -51,3 +51,12 @@ Para criação de títulos dessa forma, qualquer quantidade de caracteres
 
     Este título H2 funcionará corretamente também
     -
+
+Outra forma de criar cabeçalhos é com #. Veja:
+
+    # Este é um H1
+    ## Este é um H2
+    #### Este é um H4
+    # Eu posso fechar o cabeçalho, mas não sou obrigado #
+    ## Não importa quantos #'s eu uso para fechar #
+    ### O que determina o tipo de título é a são as cerquilhas de abertura #
