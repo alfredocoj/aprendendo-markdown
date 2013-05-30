@@ -8,4 +8,4 @@ able to save some time and keeping your document source as readable as possible.
 
 A more complete description is available [here][].
 
-	[here]: http://daringfireball.net/projects/markdown/
+  [here]: http://daringfireball.net/projects/markdown/
