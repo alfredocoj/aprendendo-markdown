@@ -135,17 +135,19 @@ asteriscos (*), símbolo de adição (+) e hífens (-) para listas desordenadas:
     -   Alpha
     -   Omega
 
-Veja:
+Veja, com asteriscos:
 
 *   A
 *   B
 *   C
 
+Veja também com sinais de adição:
 
 +   1
 +   2
 +   3
 
+Agora veja com hífens:
 
 -   Alpha
 -   Omega
