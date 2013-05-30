@@ -114,4 +114,5 @@ Veja o resultado:
 > *   Item B
 >
 > Aqui vai um exemplo:
+> 
 >     return shell_exec("echo $input | $markdown_script");
