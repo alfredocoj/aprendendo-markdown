@@ -35,7 +35,7 @@ Usando o Markdown
 @todo: escrever uma introdução bem legal aqui.
 
 ### Cabeçalhos
-
+Para criar cabeçalhos é fácil. Veja só:
     Isso é um cabeçalho H1
     ======================
 
