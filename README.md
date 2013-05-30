@@ -45,7 +45,7 @@ Para criar cabeçalhos é fácil. Veja só:
     ----------------------
 
 Para criação de títulos dessa forma, qualquer quantidade de caracteres
-= (igual) e - (traço) irá funcionar.
+= (igual) e - (hífen) irá funcionar.
 
     Este título H1 funcionará corretamente
     =
@@ -118,3 +118,32 @@ Veja o resultado:
 > Aqui vai um exemplo:
 > 
 >     return shell_exec("echo $input | $markdown_script");
+
+### Listas
+
+Markdown suporta listas ordenadas (números) e desordenadas (marcadores). Use
+asteriscos (*), símbolo de adição (+) e hífens (-) para listas desordenadas:
+
+    *   A
+    *   B
+    *   C
+    
+    +   1
+    +   2
+    +   3
+    
+    -   Alpha
+    -   Omega
+
+Veja:
+
+*   A
+*   B
+*   C
+
++   1
++   2
++   3
+
+-   Alpha
+-   Omega
