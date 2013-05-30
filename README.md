@@ -99,7 +99,7 @@ elementos Markdown, como cabeçalhos, listas e blocos de código:
     > 
     > * Item A
     > * Item B
-    > 
+    >
     >     return shell_exec("echo $input | $markdown_script");
 
 Veja o resultado:
