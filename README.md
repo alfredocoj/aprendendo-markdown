@@ -94,12 +94,14 @@ elementos Markdown, como cabeçalhos, listas e blocos de código:
     > Bloco de nível 1 
     > > Bloco de nível 2
     > 
-    > 1. Item 1
-    > 2. Item 2
+    > 1.   Item 1
+    > 2.   Item 2
     > 
-    > * Item A
-    > * Item B
+    > *   Item A
+    > *   Item B
     >
+    > Aqui vai um exemplo:
+    > 
     >     return shell_exec("echo $input | $markdown_script");
 
 Veja o resultado:
