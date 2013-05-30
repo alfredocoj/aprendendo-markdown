@@ -14,8 +14,8 @@ do Markdown, traduzida pelo Google Translate. A versão original em inglês pode
   [md-en]: http://daringfireball.net/projects/markdown/
 
 
-Sobre
------
+Sobre o autor deste documento
+-----------------------------
 Me chamo Joel Wallis, sou um desenvolvedor web, especializado em [Drupal][dpl],
 que ama comunidades e softwares livres. Sou um defensor do livre acesso ao
 conhecimento, um praticante de inteligência coletiva, um eterno aprendiz.
@@ -26,6 +26,18 @@ você pode forkar algum projeto do [meu Github][gth], você pode ler
 
   [dpl]: http://drupal.org
   [lkd]: http://br.linkedin.com/in/joelwallis/
-  [twt]: https://twitter.com/joelwallis1
-  [gth]: https://github.com/joelwallis
+  [twt]: http://twitter.com/joelwallis1
+  [gth]: http://github.com/joelwallis
   [btm]: http://about.me/joelwallis
+
+Usando o Markdown
+-----------------
+@todo: escrever uma introdução bem legal aqui.
+
+### Cabeçalhos
+
+    Isso é um cabeçalho H1
+    ======================
+
+    Isso é um cabeçalho H2
+    ----------------------
