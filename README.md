@@ -73,5 +73,5 @@ Use > para definir citações:
 Veja o resultado:
 
  > "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
- > Pra lá , depois divoltis porris, paradis."
+ > Pra lá , depois divoltis porris, paradis."  
  > \- Mussum Ipsum
