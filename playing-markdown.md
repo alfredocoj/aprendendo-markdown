@@ -9,3 +9,12 @@ able to save some time and keeping your document source as readable as possible.
 A more complete description is available [here][].
 
   [here]: http://daringfireball.net/projects/markdown/
+
+About me
+--------
+I'm Joel Wallis and [that is my Github][gh-jw]. I'm a brazilian
+Drupal DevOps who loves open source softwares and communities. You can read more
+about me in my [about.me page][abme-jw].
+
+  [gh-jw]: https://github.com/joelwallis
+  [abme-jw]: http://about.me/joelwallis
