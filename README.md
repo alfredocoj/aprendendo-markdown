@@ -41,3 +41,12 @@ Usando o Markdown
 
     Isso é um cabeçalho H2
     ----------------------
+
+Para criação de títulos dessa forma, qualquer quantidade de caracteres
+= (igual) e - (traço) irá funcionar.
+
+    Este título H1 funcionará corretamente
+    =
+
+    Este título H2 funcionará corretamente também
+    -
