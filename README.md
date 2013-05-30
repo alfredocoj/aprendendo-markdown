@@ -112,5 +112,5 @@ Veja o resultado:
 > 
 > * Item A
 > * Item B
-> 
+>
 >     return shell_exec("echo $input | $markdown_script");
