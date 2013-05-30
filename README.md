@@ -87,3 +87,30 @@ Veja o resultado:
 > "Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.
 Pra lá , depois divoltis porris, paradis."  
 - Mussum Ipsum
+
+Blocos de código podem ser aninhados (um dentro de outro), podem conter outros
+elementos Markdown, como cabeçalhos, listas e blocos de código:
+
+    > Bloco de nível 1 
+    > > Bloco de nível 2
+    > 
+    > 1. Item 1
+    > 2. Item 2
+    > 
+    > * Item A
+    > * Item B
+    > 
+    >     return shell_exec("echo $input | $markdown_script");
+
+Veja o resultado:
+
+> Bloco de nível 1 
+> > Bloco de nível 2
+> 
+> 1. Item 1
+> 2. Item 2
+> 
+> * Item A
+> * Item B
+> 
+>     return shell_exec("echo $input | $markdown_script");
